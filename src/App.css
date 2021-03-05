@@ -24,6 +24,20 @@
   color: white;
 }
 
+.vehicle-marker {
+  background: transparent;
+  border: pink;
+  outline: none;
+}
+
+.car {
+  height: 3em;
+  width: 3em;
+  color: none;
+  padding: 0px;
+  background: none;
+}
+
 .App-link {
   color: #61dafb;
 }
